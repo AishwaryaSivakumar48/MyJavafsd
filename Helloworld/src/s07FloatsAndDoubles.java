@@ -1,5 +1,5 @@
 
-public class FloatsAndDoubles {
+public class s07FloatsAndDoubles {
 
 	public static void main(String[] args) {
 		System.out.println("Min float value: "+ Float.MIN_VALUE);

@@ -1,5 +1,5 @@
 
-public class StringMethods {
+public class s05StringMethods {
 
 	public static void main(String[] args) {
 

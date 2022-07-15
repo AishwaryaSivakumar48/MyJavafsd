@@ -1,5 +1,5 @@
 
-public class Strings {
+public class s06Strings {
  public static void main(String[] args) {
 	  
 	 String s2= new String("Aishwarya");

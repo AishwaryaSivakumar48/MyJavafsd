@@ -1,5 +1,5 @@
 
-public class charAndBooleans {
+public class s08charAndBooleans {
 
 	public static void main(String[] args) {
           char mychar='D';
