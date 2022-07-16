@@ -34,17 +34,6 @@ public class Type_casting {
 		char intTochar=(char)i;
 		System.out.println("Int to Char :"+ i + " -> " + intTochar);
 		
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 
